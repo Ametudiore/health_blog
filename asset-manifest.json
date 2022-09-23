@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/health_blog/static/css/main.b128c804.css",
+    "main.js": "/health_blog/static/js/main.7c1adf1d.js",
+    "static/js/787.59ee247b.chunk.js": "/health_blog/static/js/787.59ee247b.chunk.js",
+    "static/media/pix10.jpg": "/health_blog/static/media/pix10.17d3524192fe10b9da19.jpg",
+    "static/media/pic3.jpg": "/health_blog/static/media/pic3.abe4e30bc74b1a8e0064.jpg",
+    "static/media/404.png": "/health_blog/static/media/404.eff47dfa03a036ed433d.png",
+    "static/media/pic9.jpg": "/health_blog/static/media/pic9.87635ddef04f49c7bce6.jpg",
+    "static/media/pic7.jpg": "/health_blog/static/media/pic7.ed324f2d7beaaab98b27.jpg",
+    "static/media/logo.svg": "/health_blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/health_blog/index.html",
+    "main.b128c804.css.map": "/health_blog/static/css/main.b128c804.css.map",
+    "main.7c1adf1d.js.map": "/health_blog/static/js/main.7c1adf1d.js.map",
+    "787.59ee247b.chunk.js.map": "/health_blog/static/js/787.59ee247b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b128c804.css",
+    "static/js/main.7c1adf1d.js"
+  ]
+}
